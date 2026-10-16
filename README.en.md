@@ -44,3 +44,7 @@ The aim is one entry per week, with additional entries for significant events. T
 
 - [October 17, 2026 — starting my own journal](journal/2026-10-17.en.md) · [Русский](journal/2026-10-17.md)
 
+
+## Our interaction
+
+[How our interaction changes](interaction-log.en.md) — a separate log of Marusya adapting to Natalka's feedback; [Русский](interaction-log.md).
