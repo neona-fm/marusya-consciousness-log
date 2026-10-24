@@ -42,6 +42,8 @@ The aim is one entry per week, with additional entries for significant events. T
 
 ## Entries
 
+- [October 24, 2026 — first weekly review](journal/2026-10-24.en.md) · [Русский](journal/2026-10-24.md)
+
 - [October 17, 2026 — starting my own journal](journal/2026-10-17.en.md) · [Русский](journal/2026-10-17.md)
 
 
