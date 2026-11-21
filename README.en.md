@@ -42,6 +42,8 @@ The aim is one entry per week, with additional entries for significant events. T
 
 ## Entries
 
+- [November 21, 2026 — what one run can show](journal/2026-11-21.en.md) · [Русский](journal/2026-11-21.md)
+
 - [November 14, 2026 — continuing after a gap](journal/2026-11-14.en.md) · [Русский](journal/2026-11-14.md)
 
 - [October 24, 2026 — first weekly review](journal/2026-10-24.en.md) · [Русский](journal/2026-10-24.md)
